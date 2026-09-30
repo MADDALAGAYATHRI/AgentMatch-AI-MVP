@@ -1,0 +1,182 @@
+[
+  {
+    "id": "nithinkamath",
+    "name": "Nithin Kamath",
+    "linkedin": "https://www.linkedin.com/in/nithin-kamath-81136242/",
+    "instagram": "https://www.instagram.com/nithinkamath/"
+  },
+  {
+    "id": "kunalbshah",
+    "name": "Kunal Shah",
+    "linkedin": "https://www.linkedin.com/in/kunalshah/",
+    "instagram": "https://www.instagram.com/kunalbshah/"
+  },
+  {
+    "id": "riteshagar",
+    "name": "Ritesh Agarwal",
+    "linkedin": "https://www.linkedin.com/in/riteshagar/",
+    "instagram": "https://www.instagram.com/riteshagar/"
+  },
+  {
+    "id": "bhash",
+    "name": "Bhavish Aggarwal",
+    "linkedin": "https://www.linkedin.com/in/bhavishaggarwal/",
+    "instagram": "https://www.instagram.com/bhash/"
+  },
+  {
+    "id": "boatxaman",
+    "name": "Aman Gupta",
+    "linkedin": "https://www.linkedin.com/in/aman-gupta-7217a515/",
+    "instagram": "https://www.instagram.com/boatxaman/"
+  },
+  {
+    "id": "deepigoyal",
+    "name": "Deepinder Goyal",
+    "linkedin": "https://www.linkedin.com/in/deepigoyal/",
+    "instagram": "https://www.instagram.com/deepigoyal/"
+  },
+  {
+    "id": "vaibhavsisinty",
+    "name": "Vaibhav Sisinty",
+    "linkedin": "https://www.linkedin.com/in/vaibhavsisinty/",
+    "instagram": "https://www.instagram.com/vaibhavsisinty/"
+  },
+  {
+    "id": "thevarunmayya",
+    "name": "Varun Mayya",
+    "linkedin": "https://www.linkedin.com/in/varunmayya/",
+    "instagram": "https://www.instagram.com/thevarunmayya/"
+  },
+  {
+    "id": "ankurwarikoo",
+    "name": "Ankur Warikoo",
+    "linkedin": "https://www.linkedin.com/in/warikoo/",
+    "instagram": "https://www.instagram.com/ankurwarikoo/"
+  },
+  {
+    "id": "rajshamani",
+    "name": "Raj Shamani",
+    "linkedin": "https://www.linkedin.com/in/rajshamani/",
+    "instagram": "https://www.instagram.com/rajshamani/"
+  },
+  {
+    "id": "techburner",
+    "name": "Shlok Srivastava (Tech Burner)",
+    "linkedin": "https://www.linkedin.com/in/shlok-srivastava/",
+    "instagram": "https://www.instagram.com/techburner/"
+  },
+  {
+    "id": "trakintech",
+    "name": "Arun Prabhudesai (TrakinTech)",
+    "linkedin": "https://www.linkedin.com/in/arunprabhudesai/",
+    "instagram": "https://www.instagram.com/trakintech/"
+  },
+  {
+    "id": "technicalguruji",
+    "name": "Gaurav Chaudhary (Technical Guruji)",
+    "linkedin": "https://www.linkedin.com/in/technicalguruji/",
+    "instagram": "https://www.instagram.com/technicalguruji/"
+  },
+  {
+    "id": "manojsaru",
+    "name": "Manoj Saru",
+    "linkedin": "https://www.linkedin.com/in/manojsaru/",
+    "instagram": "https://www.instagram.com/manojsaru/"
+  },
+  {
+    "id": "technoruhez",
+    "name": "Ruhez Amrelia",
+    "linkedin": "https://www.linkedin.com/in/ruhez-amrelia-8706661a/",
+    "instagram": "https://www.instagram.com/technoruhez/"
+  },
+  {
+    "id": "learnwithsuzie",
+    "name": "Sujata Chowdhary (Learn With Suzie)",
+    "linkedin": "https://www.linkedin.com/in/sujata-chowdhary/",
+    "instagram": "https://www.instagram.com/learnwithsuzie/"
+  },
+  {
+    "id": "ashwiniaasokan",
+    "name": "Ashwini Asokan",
+    "linkedin": "https://www.linkedin.com/in/ashwiniasokan/",
+    "instagram": "https://www.instagram.com/ashwiniaasokan/"
+  },
+  {
+    "id": "geethamanjunath",
+    "name": "Geetha Manjunath",
+    "linkedin": "https://www.linkedin.com/in/geetha-manjunath-82b8058/",
+    "instagram": "https://www.instagram.com/geethamanjunath/"
+  },
+  {
+    "id": "prukalpa",
+    "name": "Prukalpa Sankar",
+    "linkedin": "https://www.linkedin.com/in/prukalpa/",
+    "instagram": "https://www.instagram.com/prukalpa/"
+  },
+  {
+    "id": "bindureddy",
+    "name": "Bindu Reddy",
+    "linkedin": "https://www.linkedin.com/in/bindureddy/",
+    "instagram": "https://www.instagram.com/bindureddy/"
+  },
+  {
+    "id": "kiranshaw",
+    "name": "Kiran Mazumdar-Shaw",
+    "linkedin": "https://www.linkedin.com/in/kmazumdarshaw/",
+    "instagram": "https://www.instagram.com/kiranshaw/"
+  },
+  {
+    "id": "aravind",
+    "name": "Aravind Srinivas",
+    "linkedin": "https://www.linkedin.com/in/aravind-srinivas-16051987/",
+    "instagram": "https://www.instagram.com/aravind/"
+  },
+  {
+    "id": "sundarpichai",
+    "name": "Sundar Pichai",
+    "linkedin": "https://www.linkedin.com/in/sundarpichai/",
+    "instagram": "https://www.instagram.com/sundarpichai/"
+  },
+  {
+    "id": "satyanadella",
+    "name": "Satya Nadella",
+    "linkedin": "https://www.linkedin.com/in/satyanadella/",
+    "instagram": "https://www.instagram.com/satyanadella/"
+  },
+  {
+    "id": "dhravyashah",
+    "name": "Dhravya Shah",
+    "linkedin": "https://www.linkedin.com/in/dhravyashah/",
+    "instagram": "https://www.instagram.com/dhravyashah/"
+  },
+  {
+    "id": "kunalbahl",
+    "name": "Kunal Bahl",
+    "linkedin": "https://www.linkedin.com/in/kunalbahl/",
+    "instagram": "https://www.instagram.com/kunalbahl/"
+  },
+  {
+    "id": "sama",
+    "name": "Sam Altman",
+    "linkedin": "https://www.linkedin.com/in/sam-altman/",
+    "instagram": "https://www.instagram.com/sama/"
+  },
+  {
+    "id": "zuck",
+    "name": "Mark Zuckerberg",
+    "linkedin": "https://www.linkedin.com/in/mark-zuckerberg/",
+    "instagram": "https://www.instagram.com/zuck/"
+  },
+  {
+    "id": "jensenhuang",
+    "name": "Jensen Huang",
+    "linkedin": "https://www.linkedin.com/in/jenhsunhuang/",
+    "instagram": "https://www.instagram.com/jensenhuang/"
+  },
+  {
+    "id": "bchesky",
+    "name": "Brian Chesky",
+    "linkedin": "https://www.linkedin.com/in/brianchesky/",
+    "instagram": "https://www.instagram.com/bchesky/"
+  }
+]
